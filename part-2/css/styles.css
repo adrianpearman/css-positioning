@@ -24,6 +24,72 @@ figure {
 }
 
 .film {
-  width: 50%;
-  margin: 40px auto;
+  width: 90%;
+  margin: 4% auto;
 }
+
+.film-box {
+  border-color: lightgrey;
+  border-width: 2px;
+  border-style: solid;
+  padding: 2%;
+  display: inline-block;
+}
+
+.action-watch-later{
+  color: red;
+  float: right;
+
+}
+
+.action-like {
+color: red;
+float: right;
+}
+
+.film-details{
+  display: inline-block;
+  width: 50%;
+  float: right;
+}
+
+.film-poster{
+  width: 50%;
+  float:left;
+  padding: 2%;
+}
+
+
+/*.film
+width: 70%;
+border-bottom-color: black;
+border: 10px;
+margin: 50px auto;
+display: inline-flex;*/
+/*
+.action-watch-later {
+    color: red;
+    display: block;
+    position: relative;
+    top: -101%;
+}
+
+article.film {
+    position: relative;
+    margin: 6%;
+    /* border-bottom-color: black; */
+/*    border: 10px;
+}
+
+p.film-description {
+    padding-left: 10%;
+}
+
+.action-like {
+    float: right;
+    color: red;
+}
+
+h1.film-title {
+    padding-left: 10%;
+} */
